@@ -5,3 +5,4 @@ hello world
 init git
 i am handsome
 我很帅
+add 3 
